@@ -1,0 +1,8 @@
+Category	Extensions
+Images	.jpg, .png, .gif, .svg, .jpeg, .bmp
+Documents	.pdf, .docx, .doc, .txt, .pptx, .xls, .xlsx
+Videos	.mp4, .avi, .mkv, .mov, .flv
+Music	.mp3, .wav, .aac, .ogg
+Archives	.zip, .rar, .tar, .gz, .7z
+Scripts	.py, .js, .html, .css, .cpp, .java
+Others	All other unsupported files
